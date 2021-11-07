@@ -34,9 +34,9 @@ $ git clone https://github.com/R-Tzy/DMBF.V2
 ```
 #### ⇨  Menjalankan Script
 ```
-$ cd dmbf
+$ cd DMBF.V2
 $ git pull
-$ python dmbf.py
+$ python DMBF.V2.py
 ```
 #### ⇨  Informasi
 ```
