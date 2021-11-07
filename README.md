@@ -29,7 +29,7 @@ $ pkg install python
 $ pkg install git
 $ pip install requests
 $ pip install bs4
-$ git clone https://github.com/Dapunta/dmbf
+$ git clone https://github.com/R-Tzy/DMBF.V2
  
 ```
 #### ⇨  Menjalankan Script
