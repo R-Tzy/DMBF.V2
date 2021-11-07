@@ -1,16 +1,22 @@
-46 lines (45 sloc)  1.05 KB
-✭ DMBF CRACK
-Dibuat Dengan -
+# ✭ DMBF CRACK
+#### Dibuat -
+```
 Author:
--
-⇨ Fitur Login
+- 
+```
+#### ⇨  Fitur Login
+```
 [✯] Login Token  
-⇨ Fitur Crack
+```
+#### ⇨  Fitur Crack
+```
 [✯] Crack Dari Teman, Public, Followers, Likers    
 [✯] Crack Default/Manual Pass  
 [✯] Crack Metode Api/Mbasic
 [✯] Crack Muncul TTL 
-⇨ Install Script Di Termux
+```
+#### ⇨  Install Script Di Termux
+```
 $ termux-setup-storage  
    • Enter  
    • Ketik y Atau Pilih Izinkan  
@@ -25,11 +31,16 @@ $ pip install requests
 $ pip install bs4
 $ git clone https://github.com/Dapunta/dmbf
  
-⇨ Menjalankan Script
+```
+#### ⇨  Menjalankan Script
+```
 $ cd dmbf
 $ git pull
 $ python dmbf.py
-⇨ Informasi
+```
+#### ⇨  Informasi
+```
 [!] Bedanya Metode Crack Apaan Ngab? Nih :
 ✯ ---> API = Pake Metode Lama, Cracknya Cepet Tapi Gampang Kena Spam, Sebab Udah Diupdate Sama Pihak Facebook, Not Recommended
-✯ ---> Mbasic = Metode Lama Yang Masih 
+✯ ---> Mbasic = Metode Lama Yang Masih Valid Sampe Sekarang, Cracknya Lumayan Lambat, Tapi Jarang Kena Spam, Makanya Recommended
+```
