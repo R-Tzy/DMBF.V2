@@ -197,6 +197,7 @@ def _menu_dev_(_Dapunta_Ganteng_Banget_):
     _dapunta_cici_('%s[%s•%s] %sID : %s'%(_U_,_P_,_U_,_P_,_id_dev_))
     _dapunta_cici_('%s[%s•%s] %sIP : %s\n'%(_U_,_P_,_U_,_P_,_ip_dev_))
     _dapunta_cici_('%s[%s1%s] %sCrack ID Dari Teman/Publik'%(_U_,_P_,_U_,_P_))
+    _dapunta_cici_('%s[%s2%s] %sCrack ID Dari Angota Grup'%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('%s[%s2%s] %sCrack ID Dari Pengikut'%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('%s[%s3%s] %sCrack ID Dari Likers'%(_U_,_P_,_U_,_P_))
     _dapunta_cici_('%s[%s4%s] %sLihat Hasil Crack'%(_U_,_P_,_U_,_P_))
